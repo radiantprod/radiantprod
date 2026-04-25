@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiantprod&label=Profile%20views&color=0e75b6&style=flat" alt="radiantprod" /> </p>
 
-- 🌱 I’m currently learning **Python, Radiant development**
+- 🌱 I’m currently learning **C++, Python, JavaScript**
 
 - 💬 Ask me about **JavaScript**
 
